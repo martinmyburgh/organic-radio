@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Your application name-->
+    <string name="app_name">Your Radio App Demo</string>
+
+    <!--Your main menu tab name-->
+    <string name="tab1">Recent Added</string>
+    <string name="tab2">All Radio Station</string>
+
+    <!--Change AdMob Banner and Interstitial ID-->
+    <string name="admob_banner_id">ca-app-pub-5107556562590198/1716725260</string>
+    <string name="admob_interstitial_id">ca-app-pub-5107556562590198/3193458464</string>
+
+    <!--Set value to @string/admob_off to Disable admob-->
+    <!--Set value to @string/admob_on to Enable admob-->
+    <string name="admob_visibility">@string/admob_on</string>
+    <!--Value Enable and Disable AdMob-->
+    <string name="admob_on">0</string>
+    <string name="admob_off">2</string>
+
+    <!--Play store application link-->
+    <string name="play_more_apps">https://play.google.com/store/apps/developer?id=Solodroid</string>
+
+    <!-- Set to @string/drawer_info_on to enable info-->
+    <!-- Set to @string/drawer_info_off to disable info-->
+    <string name="drawer_visibility">@string/drawer_info_on</string>
+    <!--Value Hide Info in Drawer Header-->
+    <string name="drawer_info_on">0</string>
+    <string name="drawer_info_off">2</string>
+
+    <!--navigation drawer menu name-->
+    <string name="drawer_recent">Home</string>
+    <string name="drawer_favorite">Favorite</string>
+    <string name="drawer_social">Social</string>
+    <string name="drawer_rate">Rate</string>
+    <string name="drawer_more">More</string>
+    <string name="drawer_about">About</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!--social network-->
+    <string name="social_tab1">Facebook</string>
+    <string name="social_tab2">Twitter</string>
+    <string name="facebook_url">https://www.facebook.com/solodroid.net</string>
+    <string name="twitter_url">https://twitter.com/solodroiddev</string>
+
+    <!--floating action button menu-->
+    <string name="fab_favorite">My Favorite</string>
+    <string name="fab_share">Share</string>
+
+    <!--app about information-->
+    <string name="app_version">Version 2.1.2</string>
+    <string name="app_copyright">Copyright &#169; 2015 Solodroid Developer \n All rights reserved</string>
+    <string name="app_email">developer.solodroid@gmail.com</string>
+    <string name="rate_summary">Give your rate and feedback</string>
+    <string name="more_summary">More apps from developer</string>
+    <string name="title_app_name">Application Name</string>
+    <string name="title_app_version">Build Version</string>
+    <string name="title_app_email">Email</string>
+    <string name="title_app_copyright">Copyright</string>
+    <string name="title_app_rate">Rate</string>
+    <string name="title_app_more">More</string>
+
+    <!--firebase analytics-->
+    <string name="analytics_item_id_1">main_menu</string>
+    <string name="analytics_item_id_2">radio_list</string>
+    <string name="analytics_item_name_1">Main Menu</string>
+    <string name="analytics_item_name_2">Radio List</string>
+
+    <!--other string tag name-->
+    <string name="now_playing">Now Playing :</string>
+    <string name="share_title">I am Listening </string>
+    <string name="share_content">I Would like to share this with you. Here You Can Download This Application from PlayStore </string>
+    <string name="search">Search&#8230;</string>
+    <string name="search_hint">Hint</string>
+    <string name="favorite">Favorite</string>
+    <string name="about">About</string>
+    <string name="no_favorite">No Favorite Found</string>
+    <string name="option_set_favorite">Add this to My Favorite</string>
+    <string name="option_set_share">Share to Friends</string>
+    <string name="option_unset_favorite">Remove this From My Favorites</string>
+    <string name="favorite_added">Added to Favorite</string>
+    <string name="favorite_removed">Removed from Favorite</string>
+    <string name="radio_connection">Connecting to </string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="internet_disabled">Internet Connection is Disabled</string>
+
+</resources>

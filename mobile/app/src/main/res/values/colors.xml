@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--app main color-->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#f90054</color>
+
+    <!--app tab color-->
+    <color name="tabIndicatorColor">#f90054</color>
+    <color name="tabSelectedTextColor">#FFFFFF</color>
+    <color name="tabTextColor">#000000</color>
+
+    <!--play background color-->
+    <color name="backgroundPlay">#292929</color>
+
+    <!--swipe down refresh animation color-->
+    <color name="orange">#FF9900</color>
+    <color name="green">#009900</color>
+    <color name="blue">#000099</color>
+
+    <!--floating action button color-->
+    <color name="colorNormal">#f90054</color>
+    <color name="colorPressed">#fa6b9c</color>
+    <color name="colorRipple">#be0041</color>
+
+    <!--text color-->
+    <color name="background_color">#f2f2f2</color>
+    <color name="textColorBlack">#000000</color>
+    <color name="textColorGrey">#9e9e9e</color>
+
+</resources>
